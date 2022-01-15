@@ -8,6 +8,3 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: through my LinkdIn
 -->
-
-Tech & Tools Preference
-Java C Kotlin Json Firebase
