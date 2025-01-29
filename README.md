@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ARDENT COMPUTECH PVT LTD     
-- 🐱‍💻 I’m Shiwam Kumar Last year B-Tech student 
-- 🌱 I’m currently learning Android Studio
-- 👯 I’m looking to collaborate on Android Developer
-- 🤔 I’m looking for help with Develop Android Project
-- 💬 Ask me about Android Studio, Java
+- 🔭 I’m a final-year M.E. Computer Science and Engineering student specializing in Data Science at Thapar University.     
+- 🐱‍💻 I’m Shiwam Kumar Last year ME CSE student 
+- 🌱 I’m currently interning at A2IT as a Data Analyst, honing my skills in Python, data analysis, and machine learning.
+- 👯 I’m looking to collaborate on Data Analyst & Aspiring Data Scientist
+- 🤔 I’m looking for help with Develop Model
+- 💬 Ask me about ML, Python
 - 📫 How to reach me: through my LinkdIn
 -->
